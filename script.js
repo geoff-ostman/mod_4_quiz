@@ -218,4 +218,3 @@ var questions = [
        
     }   
     startButtonEl.addEventListener("click", startQuiz);
-
